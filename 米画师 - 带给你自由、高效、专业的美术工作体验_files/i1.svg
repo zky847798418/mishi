@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="138px" height="108px" viewBox="0 0 138 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>图标</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="90"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="90" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-4" x="0" y="0" width="120" height="90"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="90" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="40" height="32"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.5" y="-0.5" width="41" height="33">
+            <rect x="-0.5" y="-0.5" width="41" height="33" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <polyline id="path-9" points="61.4605314 63.6317335 77.5833561 80.0233538 107.172585 54"></polyline>
+    </defs>
+    <g id="米画师---首页---Ver-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="第一屏" transform="translate(-248.000000, -1811.000000)">
+            <g id="美术约稿，如此轻松" transform="translate(170.000000, 1679.000000)">
+                <g id="优势x3" transform="translate(0.000000, 134.000000)">
+                    <g id="精细挑选">
+                        <g id="图标" transform="translate(80.000000, 0.000000)">
+                            <g id="Group-2">
+                                <g id="Rectangle-42">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use stroke="#D8D8D8" mask="url(#mask-3)" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                            <g id="Group-2-Copy" transform="translate(10.000000, 10.000000)">
+                                <g id="Rectangle-42">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                    <use stroke="#D8D8D8" mask="url(#mask-6)" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                </g>
+                                <path d="M60.5,15 L105.5,15" id="Line" stroke="#BEBEBE" stroke-width="2" stroke-linecap="round" stroke-dasharray="3,5,4,4" opacity="0.7"></path>
+                                <path d="M12.5,53 L109.5,53" id="Line-Copy-3" stroke="#BEBEBE" stroke-width="2" stroke-linecap="round" stroke-dasharray="3,6,8,6" opacity="0.7"></path>
+                                <path d="M60,28 L105,28" id="Line-Copy" stroke="#BEBEBE" stroke-width="2" stroke-linecap="round" stroke-dasharray="6,5,4" opacity="0.7" transform="translate(82.500000, 28.000000) scale(-1, 1) translate(-82.500000, -28.000000) "></path>
+                                <path d="M9.5,66 L106.5,66" id="Line-Copy-4" stroke="#BEBEBE" stroke-width="2" stroke-linecap="round" stroke-dasharray="6,5" opacity="0.7" transform="translate(58.000000, 66.000000) scale(-1, 1) translate(-58.000000, -66.000000) "></path>
+                                <path d="M60.5,40 L105.5,40" id="Line-Copy-2" stroke="#BEBEBE" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,5,5,4" opacity="0.7" transform="translate(83.000000, 40.000000) scale(-1, 1) translate(-83.000000, -40.000000) "></path>
+                                <path d="M9.5,78 L106.5,78" id="Line-Copy-5" stroke="#BEBEBE" stroke-width="2" stroke-linecap="round" stroke-dasharray="4,6,9,6" opacity="0.7" transform="translate(58.000000, 78.000000) scale(-1, 1) translate(-58.000000, -78.000000) "></path>
+                                <g id="小头像" transform="translate(10.000000, 10.000000)">
+                                    <g id="Rectangle-42-Copy-2">
+                                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        <use stroke="#BEBEBE" mask="url(#mask-8)" stroke-width="1" xlink:href="#path-7"></use>
+                                    </g>
+                                    <g id="Group" transform="translate(3.345840, 4.127786)">
+                                        <path d="M5.55309353,5.81711479 C5.63726403,4.05751882 6.01574928,0.543797221 6.01574928,0.543797221 C6.01574928,0.543797221 8.84739544,2.14004482 10.0379221,3.11459226 C10.9947255,3.89781734 12.4577396,5.81711479 12.4577396,5.81711479 C12.4577396,5.81711479 15.0033646,5.43264788 16.1883645,5.43264788 C17.5040797,5.43264788 19.9598847,5.81711479 19.9598847,5.81711479 C19.9598847,5.81711479 21.651648,3.91708444 22.5609867,3.11459226 C23.6434564,2.15931193 25.9353098,0.543797257 25.9353098,0.543797257 C25.9353098,0.543797257 26.807727,3.5361142 26.977801,4.9109215 C27.1552241,6.34513568 26.977801,8.97086168 26.977801,8.97086168 C26.977801,8.97086168 28.0362302,10.996272 28.6018693,13.198919 C28.8903496,14.3222863 29.3155692,15.9981521 29.5414983,17.8716705 C29.7684893,19.7539952 29.7961515,21.8354082 30.0701892,23.5735418 C30.6169823,27.0416772 33,28 33,28 L2.13162821e-14,28 C2.13162821e-14,28 1.92504759,25.9179027 2.40622091,22.7344291 C2.88739423,19.5509555 3.03965844,18.4620272 3.17825853,17.4436767 C3.46058824,15.3692869 3.91230874,13.2463964 4.16164755,12.3876626 C4.69961885,10.5348659 5.55309353,8.97086178 5.55309353,8.97086178 C5.55309353,8.97086178 5.48304545,7.28147943 5.55309353,5.81711479 Z" id="Path-1" fill="#FFFFFF"></path>
+                                        <ellipse id="Oval-1" fill="#D8D8D8" cx="10.3382248" cy="15.7555723" rx="1.17291981" ry="3.24442771"></ellipse>
+                                        <ellipse id="Oval-1-Copy" fill="#D8D8D8" cx="19.7215832" cy="15.7555723" rx="1.17291981" ry="3.24442771"></ellipse>
+                                    </g>
+                                </g>
+                                <g id="Line" stroke-linecap="square">
+                                    <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-9"></use>
+                                    <use stroke="#A8E7FF" stroke-width="3" xlink:href="#path-9"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

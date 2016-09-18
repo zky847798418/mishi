@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="152px" viewBox="0 0 70 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>过度省略号</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="米画师---首页---Ver-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="首页设计" sketch:type="MSArtboardGroup" transform="translate(-685.000000, -6206.000000)">
+            <g id="鼓励入驻" sketch:type="MSLayerGroup" transform="translate(-98.000000, 6206.000000)">
+                <g id="过度省略号" transform="translate(783.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-32" fill="#D8D8D8" cx="35" cy="7" r="7"></circle>
+                    <circle id="Oval-32-Copy" fill="#D7DFEA" cx="35" cy="51" r="7"></circle>
+                    <circle id="Oval-32-Copy-2" fill="#CBDCF4" cx="35" cy="95" r="7"></circle>
+                    <polygon id="Triangle-20" fill="#CBDCF4" transform="translate(35.000000, 142.000000) scale(1, -1) translate(-35.000000, -142.000000) " points="35 132 70 152 0 152 "></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

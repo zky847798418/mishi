@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="89px" viewBox="0 0 150 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M8.16917964,46.3961367 C2.7033292,48.9386178 0.405100909,55.9394151 0.320690845,56.4401507 C-0.152223228,59.2455612 -0.481164046,65.8211606 2.20779905,69.9248746 C6.07474545,75.8263472 13.5460125,79.0398426 13.5460125,79.0398426 L123.641756,79.0398448 C123.641756,79.0398448 131.818198,74.6262553 136.304347,68.3827742 C139.93123,63.3351544 140.063114,56.5934009 139.986571,53.9184294 C139.901208,50.9352226 138.372642,45.6017322 134.500881,41.0547298 C130.749051,36.6485756 124.675444,34.5217017 122.189198,34.0311317 C114.944281,32.6016113 107.593123,35.6215518 107.593123,35.6215518 C107.593123,35.6215518 105.559754,19.7549415 100.099966,11.7650876 C98.8036359,9.86803729 94.1226809,3.744073 86.4230886,1.36430932 C82.6698992,0.204286398 73.4128221,-1.01441431 66.4300585,1.36430931 C58.7705532,3.97356934 53.4876419,10.3214115 52.6302989,11.7650881 C48.9848593,17.9036302 47.8139385,24.340699 47.8139385,24.340699 C47.8139385,24.340699 42.816053,21.6675778 38.0529544,21.5441455 C35.9355212,21.4892738 31.6718172,21.9513634 28.8336175,23.646537 C26.03889,25.3157459 24.6600583,28.2057149 23.7699706,29.7643472 C22.2171245,32.4835356 22.1380266,36.2389371 22.1558152,37.3182811 C22.2211887,41.2848975 23.7699706,45.1049545 23.7699706,45.1049545 C23.7699706,45.1049545 14.3453606,43.52324 8.16917964,46.3961367 Z" id="path-2"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="2" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="米画师---首页---Ver-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="第一屏" transform="translate(-1047.000000, -1830.000000)">
+            <g id="美术约稿，如此轻松" transform="translate(170.000000, 1679.000000)">
+                <g id="优势x3" transform="translate(0.000000, 134.000000)">
+                    <g id="云端同步" transform="translate(800.000000, 20.000000)">
+                        <g id="Group-4" transform="translate(80.000000, 0.000000)">
+                            <g id="Group" filter="url(#filter-1)" transform="translate(26.000000, 1.000000)">
+                                <path d="M5.04826684,5.34224828 C5.12478549,3.7262928 5.46886298,0.499405611 5.46886298,0.499405611 C5.46886298,0.499405611 8.04308676,1.96534728 9.12538372,2.86033983 C9.99520503,3.57962817 11.3252178,5.34224828 11.3252178,5.34224828 C11.3252178,5.34224828 13.6394224,4.98916642 14.716695,4.98916642 C15.9127997,4.98916642 18.1453497,5.34224828 18.1453497,5.34224828 C18.1453497,5.34224828 19.6833164,3.59732245 20.5099879,2.86033983 C21.4940512,1.98304157 23.5775544,0.499405644 23.5775544,0.499405644 C23.5775544,0.499405644 24.3706609,3.24745182 24.5252736,4.51002995 C24.6865673,5.82716542 24.5252736,8.23854645 24.5252736,8.23854645 C24.5252736,8.23854645 25.487482,10.0986171 26.0016993,12.1214562 C26.2639542,13.1531201 26.6505175,14.6921805 26.8559075,16.4127586 C27.062263,18.1414242 27.0874105,20.0529259 27.3365356,21.649171 C27.8336203,24.8341934 30,25.7142857 30,25.7142857 L1.95399252e-14,25.7142857 C1.95399252e-14,25.7142857 1.75004326,23.8021555 2.18747356,20.8785573 C2.62490385,17.9549591 2.76332585,16.9549229 2.88932593,16.0197031 C3.14598931,14.1146512 3.55664431,12.1650579 3.78331595,11.3764249 C4.27238078,9.67487689 5.04826684,8.23854653 5.04826684,8.23854653 C5.04826684,8.23854653 4.98458677,6.68707295 5.04826684,5.34224828 Z" id="Path-1" fill="#FFFFFF"></path>
+                                <ellipse id="Oval-1" fill="#D8D8D8" cx="9.39838617" cy="14.4694031" rx="1.06629073" ry="2.97957646"></ellipse>
+                                <ellipse id="Oval-1-Copy" fill="#D8D8D8" cx="17.928712" cy="14.4694031" rx="1.06629073" ry="2.97957646"></ellipse>
+                            </g>
+                            <g id="Path-16">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use stroke="#D8D8D8" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <polyline id="Line" stroke="#A8E7FF" stroke-width="2" stroke-linecap="square" points="70 71 70 12 64 23.494148"></polyline>
+                            <polyline id="Line-Copy-6" stroke="#A8E7FF" stroke-width="2" stroke-linecap="square" transform="translate(86.000000, 39.500000) scale(-1, -1) translate(-86.000000, -39.500000) " points="89 69 89 10 83 21.494148"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
